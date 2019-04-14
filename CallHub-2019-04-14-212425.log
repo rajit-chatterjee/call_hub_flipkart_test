@@ -1,0 +1,16 @@
+2019-04-14 21:24:28,375 - [common_function - 27 - open_browser()] - INFO - Found the browser.
+2019-04-14 21:24:40,292 - [common_function - 51 - go_to_url()] - INFO - Webpage has been opened
+2019-04-14 21:24:40,320 - [common_function - 110 - execute_script_element()] - INFO - Element has been clicked.
+2019-04-14 21:24:40,321 - [user_activities - 17 - user_login()] - INFO - Login button has been clicked
+2019-04-14 21:24:40,638 - [user_activities - 36 - user_login()] - WARNING - continue button not found. Login with username and password
+2019-04-14 21:24:43,267 - [user_activities - 53 - user_login()] - INFO - login credentials are given
+2019-04-14 21:24:43,268 - [user_activities - 61 - user_login()] - INFO - Correct login credentials. Continue...
+2019-04-14 21:24:48,300 - [common_function - 131 - mouse_hover_on_element()] - INFO - Mouse hover action completed successfully
+2019-04-14 21:24:51,563 - [user_activities - 73 - search_product()] - INFO - Product is searched
+2019-04-14 21:25:02,433 - [user_activities - 86 - select_product_randomly()] - INFO - Product is picked up. Redirecting to the product info page
+2019-04-14 21:25:02,443 - [common_function - 143 - switch_to_new_window()] - INFO - Focus has been switched to new window
+2019-04-14 21:25:03,903 - [user_activities - 98 - zip_code()] - INFO - Change is not needed. Directly writing the zip code
+2019-04-14 21:25:18,614 - [user_activities - 124 - take_snap_shot()] - INFO - Screenshot is saved at C:\Users\rajchatt\Downloads\rajit_ss.png
+2019-04-14 21:25:28,697 - [user_activities - 136 - remove_from_cart()] - INFO - Element has been removed
+2019-04-14 21:25:28,746 - [common_function - 131 - mouse_hover_on_element()] - INFO - Mouse hover action completed successfully
+2019-04-14 21:25:39,619 - [common_function - 156 - close_browser()] - INFO - Browser has been closed
